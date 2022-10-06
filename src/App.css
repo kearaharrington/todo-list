@@ -1,9 +1,25 @@
+body {
+  background-color: orange;
+}
+
 .App {
   text-align: center;
-  background-color: orange;
 }
 
 h1 {
   font-size: 22px;
   color: blueviolet;
+}
+
+li {
+  color: white;
+  font-weight: bolder;
+}
+
+button {
+  color:aqua;
+  background-color: blueviolet;
+  font-weight: bolder;
+  padding: 10px;
+  border-radius: 25px;
 }

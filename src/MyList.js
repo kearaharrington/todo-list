@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import ListItem from './ListItem';
+import './App.css';
+
 
 function MyList(props) {
     const [tasks, setTasks] = useState(props.items)
